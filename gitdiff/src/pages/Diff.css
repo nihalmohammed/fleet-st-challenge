@@ -1,0 +1,22 @@
+.diffContainer{
+    padding: 2rem;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-sp-bw{
+    justify-content: space-between;
+}
+
